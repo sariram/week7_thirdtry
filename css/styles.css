@@ -1,5 +1,5 @@
 body {
-  background-image: url("/images/gallery.jpg");
+  background-image: url("./images/gallery.jpg");
   font-family: 'Alegreya Sans', sans-serif;
   text-align: center; }
 
