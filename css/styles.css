@@ -1,6 +1,7 @@
 body {
   background-image: url("/images/gallery.jpg");
-  font-family: 'Alegreya Sans', sans-serif; }
+  font-family: 'Alegreya Sans', sans-serif;
+  text-align: center; }
 
 h1 {
   color: black;
@@ -16,7 +17,6 @@ h2 {
 .img-container {
   padding-left: 300px;
   padding-right: 300px;
-  text-align: center;
   display: block; }
 
 .btn-primary {
