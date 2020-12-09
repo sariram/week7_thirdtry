@@ -2,6 +2,7 @@ body {
   font-family: 'Alegreya Sans', sans-serif;
   text-align: center;
   margin: 20px;
+  background: url("../images/gallery.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -19,7 +20,7 @@ h2 {
   text-align: center; }
 
 .img-container {
-  padding-left: 600px; }
+  text-align: center; }
 
 .btn-primary {
   color: white;
