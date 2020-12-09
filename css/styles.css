@@ -2,7 +2,7 @@ body {
   font-family: 'Alegreya Sans', sans-serif;
   text-align: center;
   margin: 20px;
-  background-image: url("./files/gallery.jpg");
+  background-color: black;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
